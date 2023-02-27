@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+
+    <rect x="0" y="0" height="100" width="100"
+         style="stroke:#ff0000; fill: #0000ff">
+
+        <animateTransform
+            attributeName="transform"
+            begin="0s"
+            dur="20s"
+            type="rotate"
+            from="0 50 50"
+            to="360 50 50"
+            repeatCount="indefinite"
+        />
+    </rect>
+
+</svg>
